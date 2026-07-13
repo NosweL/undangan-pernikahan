@@ -1,0 +1,7 @@
+# Folder ini untuk aset gambar, logo bank, dan lagu latar belakang mp3.
+# Silakan masukkan file Anda ke sini:
+# - groom.jpg (foto mempelai pria)
+# - bride.jpg (foto mempelai wanita)
+# - wedding-song.mp3 (musik latar belakang)
+# - bca.png (logo bank BCA jika ingin dipakai)
+# - mandiri.png (logo bank mandiri jika ingin dipakai)
